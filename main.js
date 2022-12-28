@@ -1,4 +1,4 @@
-console.error(  "Issues faced *1--The marking of the rectangle is not accurate and does not change irrespective of the x and y coordinates. 2--The COCOSSD model does not give proper/accurate results.");
+console.error("Issues faced *1--The marking of the rectangle is not accurate and does not change irrespective of the x and y coordinates. 2--The COCOSSD model does not give proper/accurate results.");
 function cat()
 {
     window.location.replace("cat.html");
